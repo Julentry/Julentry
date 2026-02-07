@@ -1,16 +1,14 @@
-## Hi there 👋
+# Focus
+Python backend systems and automation.
 
-<!--
-**Julentry/Julentry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# What I build
+• APIs
+• Bots & automation
+• Linux-first tooling
 
-Here are some ideas to get you started:
+# Stack
+Python · Bash · Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Availability
+Remote roles / contract
+Contact via GitHub email

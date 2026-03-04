@@ -1,23 +1,24 @@
-# IT Support / Help Desk Portfolio
+IT Support Specialist | Tier-1 Help Desk (Remote)
 
-Hands-on labs demonstrating real Tier-1 IT support tasks.
+Former US Air Force Tier-1 IT Support. Windows troubleshooting, workstation deployment, documentation, and ticket-based support workflows in secure environments.
 
-## Skills Demonstrated
+- Portfolio: https://julentry.github.io
+- GitHub: https://github.com/Julentry
 
-- Active Directory administration
-- Microsoft 365 administration
-- ServiceNow ticket workflow
-- PowerShell automation
-- Networking troubleshooting
-- Linux system support
+## Featured Labs (Proof of Work)
 
-## Portfolio Projects
+### Helpdesk Automation (PowerShell)
+Diagnostics + repeatable troubleshooting scripts with usage notes and screenshots.  
+https://github.com/Julentry/helpdesk-automation
 
-| Project | Skills |
-|-------|------|
-| Active Directory Lab | user management, domain join, permissions |
-| Microsoft 365 Lab | user provisioning, licensing, MFA |
-| ServiceNow Incident Lab | ticket lifecycle |
-| Helpdesk Automation | PowerShell diagnostics |
-| Networking Lab | DNS / DHCP troubleshooting |
-| Linux Support Lab | SSH / permissions / CLI troubleshooting |
+### Microsoft 365 / Entra Helpdesk Lab
+Create user, reset password, block sign-in (admin workflow + screenshots).  
+https://github.com/Julentry/m365-helpdesk-lab
+
+### ServiceNow Incident Workflow Lab
+Create incident, add work notes, resolve incident (ITSM workflow + screenshots).  
+https://github.com/Julentry/servicenow-helpdesk-lab
+
+### Linux Support Lab
+Basic Tier-1 Linux diagnostics (system info, disk, processes, network) + screenshots.  
+https://github.com/Julentry/linux-support-lab

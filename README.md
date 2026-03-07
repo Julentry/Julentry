@@ -25,7 +25,7 @@ Former US Air Force Tier-1 IT Support. Windows troubleshooting, workstation depl
 
 ---
 
-## Featured Labs (Proof of Work)
+## Featured Labs 
 
 ### 1) Helpdesk Automation (PowerShell)
 

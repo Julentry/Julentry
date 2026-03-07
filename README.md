@@ -7,7 +7,7 @@ Former US Air Force Tier-1 IT Support. Windows troubleshooting, workstation depl
 
 ---
 
-## Core Tools (ATS Keywords)
+## Core Tools 
 
 **Windows 10/11** • **Microsoft 365** • **Entra ID (Azure AD)** • **ServiceNow (ITSM)**  
 **TCP/IP** • **DNS** • **DHCP** • **VPN troubleshooting** • **Remote Desktop**  
